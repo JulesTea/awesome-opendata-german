@@ -8,6 +8,8 @@ Wenn du gerade erst in die Welt von Open Data einsteigst, sind diese Links vermu
 * [Open Data – und was hat das mit mir zu tun?](https://www.youtube.com/watch?v=QBSNr6UXIJg) – Vortrag für EinsteigerInnen von Julia Kloiber und Stefan Wehrmeyer von der re:publica 2013
 * [Handbuch des Bundesverwaltungsamts](https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/Methoden/_documents/stda_open_data.html) – eigentlich für eine Bundesbehörde geschrieben, aber relativ gut übertragbar
 * [5-Sterne-Modell für offene Daten](https://5stardata.info/de) – Tim-Berners Lee hat ein 5-Sterne-Modell für offene Daten vorgeschlagen. Dieses Modell wird hier mit Kosten und Nutzen für Nutzer\*innen und Herausgeber\*innen vorgestellt
+* [ABC der Offenheit](https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf) – Eine neu aufgelegte Broschüre von OKF und Wikimedia soll einen Einstieg in die Open-Welt bieten und die wichtigsten Fragen rund um freie Lizenzen klären.
+
 
 ## Urheberrecht und Lizenzen
 
